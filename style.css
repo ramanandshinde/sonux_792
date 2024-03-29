@@ -8,7 +8,7 @@
 html,body{
     height: 100%;
     width: 100%;
-    background-image: url(/salvatore-andrea-santacroce-PsQ5IuyCM5A-unsplash.jpg);
+    background-image: url("salvatore-andrea-santacroce-PsQ5IuyCM5A-unsplash.jpg");
     background-position: initial;
     background-size: cover;
 }
